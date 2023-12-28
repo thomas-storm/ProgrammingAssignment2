@@ -13,4 +13,4 @@ makeCacheMatrix <- function(x = matrix()) {
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
-## Test that Git works
+## Test that Git works from different laptop
